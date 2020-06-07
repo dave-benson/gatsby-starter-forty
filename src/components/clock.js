@@ -1,26 +1,33 @@
 /*Clock */
-const clock = (props) => (
-var deadline = new Date("jul 18, 2020 16:00:00").getTime();
- 
-var x = setInterval(function() {
- 
-var now = new Date().getTime();
-var t = deadline - now;
-var days = Math.floor(t / (1000 * 60 * 60 * 24));
-var hours = Math.floor((t%(1000 * 60 * 60 * 24))/(1000 * 60 * 60));
-var minutes = Math.floor((t % (1000 * 60 * 60)) / (1000 * 60));
-var seconds = Math.floor((t % (1000 * 60)) / 1000);
-document.getElementById("day").innerHTML =days ;
-document.getElementById("hour").innerHTML =hours;
-document.getElementById("minute").innerHTML = minutes; 
-document.getElementById("second").innerHTML =seconds; 
-if (t < 0) {
-        clearInterval(x);
-       /* document.getElementById("demo").innerHTML = "TIME UP";*/
-        document.getElementById("day").innerHTML ='0';
-        document.getElementById("hour").innerHTML ='0';
-        document.getElementById("minute").innerHTML ='0' ; 
-        document.getElementById("second").innerHTML = '0'; }
-}, 1000);
-)
+const DateBetween = (startDate, endDate) => {
+  let second = 1000
+  let minute = second * 60
+  let hour = minute * 60
+  let day = hour * 24
+  let distance = endDate - startDate
+
+  if (distance < 0) {
+    return false
+  }
+
+  let days = Math.floor(distance / day)
+  let hours = Math.floor((distance % day) / hour)
+  let minutes = Math.floor((distance % hour) / minute)
+  let seconds = Math.floor((distance % minute) / second)
+
+  let between = []
+
+  days > 0 ? between.push(`${days} day${days > 1 ? 's' : ''}`) : false
+  hours > 0 ? between.push(`${hours} hour${hours > 1 ? 's' : ''}`) : false
+  minutes > 0
+    ? between.push(`${minutes} minute${minutes > 1 ? 's' : ''}`)
+    : false
+  seconds > 0
+    ? between.push(`${seconds} second${seconds > 1 ? 's' : ''}`)
+    : false
+
+  return between.join(' ')
+}
+
+module.exports = DateBetween
 /*Clock End*/
