@@ -1,6 +1,4 @@
 import React from 'react'
-import clock from './clock'
-import Countdown from './countdown'
 
 const Banner = (props) => (
     <section id="banner" className="major">
