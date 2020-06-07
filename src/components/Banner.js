@@ -1,4 +1,5 @@
 import React from 'react'
+import clock from './clock'
 
 const Banner = (props) => (
     <section id="banner" className="major">
@@ -9,7 +10,7 @@ const Banner = (props) => (
             <div className="content">
                 <p>Secret Garden Marquee, Burwash Manor, Barton</p>
                 <ul className="actions">
-                    <li><a href="#one" className="button next scrolly">Get Started</a></li>
+                    <li><a href="#one" className="button next scrolly"><div <span class="daysh" id="day"></span> Days Remaining</a></li>
                 </ul>
             </div>
         </div>
