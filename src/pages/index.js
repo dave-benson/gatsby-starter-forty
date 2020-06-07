@@ -17,7 +17,7 @@ class HomeIndex extends React.Component {
         return (
             <Layout>
                 <Helmet
-                    title="Gatsby Starter - Forty"
+                    title="Sarah and Dave - Home"
                     meta={[
                         { name: 'description', content: 'Sample' },
                         { name: 'keywords', content: 'sample, something' },
@@ -31,38 +31,38 @@ class HomeIndex extends React.Component {
                     <section id="one" className="tiles">
                         <article style={{backgroundImage: `url(${pic01})`}}>
                             <header className="major">
-                                <h3>Aliquam</h3>
-                                <p>Ipsum dolor sit amet</p>
+                                <h3>Ceremony</h3>
+                                <p></p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/ceremony" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
-                                <h3>Tempus</h3>
-                                <p>feugiat amet tempus</p>
+                                <h3>Hotels and Taxis</h3>
+                                <p></p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/hotels" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
-                                <h3>Magna</h3>
-                                <p>Lorem etiam nullam</p>
+                                <h3>Food</h3>
+                                <p></p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/food" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
-                                <h3>Ipsum</h3>
-                                <p>Nisl sed aliquam</p>
+                                <h3>Gifts</h3>
+                                <p></p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/gifts" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic05})`}}>
                             <header className="major">
-                                <h3>Consequat</h3>
-                                <p>Ipsum dolor sit amet</p>
+                                <h3>RSVP</h3>
+                                <p></p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/rsvp" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic06})`}}>
                             <header className="major">
