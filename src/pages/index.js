@@ -71,7 +71,8 @@ class HomeIndex extends React.Component {
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
-                    </section>                    
+                    </section>
+                 
                 </div>
 
             </Layout>
