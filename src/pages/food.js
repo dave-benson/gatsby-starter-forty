@@ -23,13 +23,18 @@ const Landing = (props) => (
                     <header className="major">
                         <h2>Main</h2>
                     </header>
-                    <h3>Meat</h3> 
-					<p>chargrilled beef burger with wild rocket, red onion & dill pickle</p>
-					<p>local pork sausages</p>
-					<p>chicken skewer marinated in garlic, lemon & rosemary</p>
-					<h3>Vegaterian</h3>
-					<p>chilli bean burger with guacamole & wild rocket</p>
-					<p>chargrilled marinated halloumi skewers with courgetti & cherry tomato (x2)</p>
+                                        <h3>Meat</h3>
+                                        <ul className="alt">
+                                            <li>chargrilled beef burger with wild rocket, red onion & dill pickle</li>
+                                            <li>local pork sausages</li>
+                                            <li>chicken skewer marinated in garlic, lemon & rosemary</li>
+                                        </ul>
+
+                                        <h3>Vegaterian</h3>
+                                        <ul className="alt">
+                                            <li>chilli bean burger with guacamole & wild rocket</li>
+                                            <li>chargrilled marinated halloumi skewers with courgetti & cherry tomato (x2)</li>
+                                        </ul>
                 </div>
             </section>
             <section id="two" className="spotlights">
