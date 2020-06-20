@@ -19,7 +19,7 @@ const Generic = (props) => (
                     </header>
                     <span className="image main"><img src={pic11} alt="" /></span>
     <div className="grid-wrapper">   
-	<div className="col-6">
+	<div className="col-4">
 				<h4>Timings</h4>
                       <ul className="alt">
 						<li>Arrive		14:00</li>
@@ -29,15 +29,15 @@ const Generic = (props) => (
 						<li>Finish		24:00</li>
                     </ul>
 	</div>
-	<div className="col-6">
+	<div className="col-4">
 				<h4>Dress Code</h4>
                       <ul className="alt">
 						<li>smart casual/dressy casual</li>
                       	<li>ties optional</li>
                     </ul>
 	</div>
-	<div className="col-6">
-				<h4>Dress Code</h4>
+	<div className="col-4">
+				<h4>Other Information</h4>
                       <p>The wedding breakfast will start at 5pm, please have lunch before if you'll get hungry</p>
 <p>If you would like to bring confetti, only biodegradable petal confetti is allowable by the venue</p>
 <p>To allow all guests to relax and enjoy themselves, we have chosen to make our special day adults only. We thank you for your understanding</p>
