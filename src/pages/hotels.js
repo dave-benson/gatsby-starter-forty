@@ -55,7 +55,7 @@ const Generic = (props) => (
 	</ul>
 	</div>
 	</div>
-<div className="col-10">
+<div className="col-4">
                                         <ul className="alt">
 		<li><a href="https://www.trivago.co.uk/?aDateRange%5Barr%5D=2021-07-17&aDateRange%5Bdep%5D=2021-07-18&aPriceRange%5Bfrom%5D=0&aPriceRange%5Bto%5D=0&iRoomType=7&aRooms%5B0%5D%5Badults%5D=2&cpt2=16802%2F200&iViewType=1&bIsSeoPage=0&sortingId=1&slideoutsPageItemId=&iGeoDistanceLimit=16093&address=&addressGeoCode=&offset=0&ra=" className="button special fit small fas fa-external-link-alt" target="_blank">Search for more hotels</a></li>
                                         
@@ -64,10 +64,10 @@ const Generic = (props) => (
 	</div>
 	 <h3>Taxis</h3>	
 <div className="grid-wrapper">
-	<div className="col-4">
 	<div className="col-4"><span className="image fit"><img src={pic08} alt="" /></span></div>
 	</div>
 	<div className="col-4">
+	<div className="box">
 	<h4>Panther</h4>
                                         <ul className="alt">
                                             <li><a href="https.pathertaxis.co.uk" target="_blank">Website</a></li>
@@ -81,7 +81,9 @@ const Generic = (props) => (
                                         </ul>
 	
 					</div>
+	</div>
 	<div className="col-4">
+	<div className="box">
 	<h4>Uber</h4>
 
 	<ul className="icons">
@@ -91,7 +93,7 @@ const Generic = (props) => (
                                         </ul>
 	
 					</div>	
-	
+	</div>	
 	</div>
 
 	
