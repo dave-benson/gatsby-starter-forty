@@ -21,7 +21,7 @@ const Generic = (props) => (
     <div className="grid-wrapper">   
 	<div className="col-6">
 				<h4>From Cambridge</h4>
-                                <p>TJust 3 miles from the City centre, travel along the Backs, through Newnham onto the Barton Road (A603) and travel out of Cambridge. Go straight over two roundabouts at the Junction with the M11. Then take the first right onto New Road heading towards Barton. Burwash Manor is the first turning on the left down the farm drive.</p>
+                                <p>Just 3 miles from the City centre, travel along the Backs, through Newnham onto the Barton Road (A603) and travel out of Cambridge. Go straight over two roundabouts at the Junction with the M11. Then take the first right onto New Road heading towards Barton. Burwash Manor is the first turning on the left down the farm drive.</p>
 					</div>
 	<div className="col-6">
 				<h4>From M11</h4>
@@ -33,7 +33,7 @@ const Generic = (props) => (
 	</div>
 <div className="col-6">
 				<ul className="actions">
-                                    <li><a href="https://www.google.co.uk/maps/place/Burwash+Manor/@52.181934,0.0581059,17z/data=!3m1!4b1!4m5!3m4!1s0x47d879da9ff85f3b:0xe6b15c3ec01e7dc4!8m2!3d52.1819307!4d0.0602946?hl=en" className="button special icon fas fa-map-marker-alt">Google Maps</a></li>
+                                    <li><a href="https://www.google.co.uk/maps/place/Burwash+Manor/@52.181934,0.0581059,17z/data=!3m1!4b1!4m5!3m4!1s0x47d879da9ff85f3b:0xe6b15c3ec01e7dc4!8m2!3d52.1819307!4d0.0602946?hl=en" className="button special icon fa-map-marker-alt" target="_blank">Google Maps</a></li>
                                 </ul>
 	</div>
 	</div>
