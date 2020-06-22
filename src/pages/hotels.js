@@ -18,7 +18,8 @@ const Generic = (props) => (
                         <h1>Hotels & Taxis</h1>
                     </header>
                     <span className="image main"><img src={pic11} alt="" /></span>
-    <div className="grid-wrapper">   
+    <div className="grid-wrapper">
+	<h3>Hotels</h3>
 	<div className="col-3">
 	<h4>Gonville</h4>
                                         <ul className="alt">
@@ -54,8 +55,27 @@ const Generic = (props) => (
                                         
 	</ul>
 	</div>
+	 <h3>Taxis</h3>	
+	<div className="col-3">
+	<h4>Panther</h4>
+                                        <ul className="alt">
+                                            <li><a href="https.pathertaxis.co.uk" target="_blank">Website</a></li>
+                                            <li>01223 715715</li>
+											<li>Apps</li>
+                                        </ul>
+	<ul className="icons">
+                                            <li><a href="https://play.google.com/store/apps/details?id=uk.riide.panther&hl=en_GB" className="icon fab fa-google-play"><span className="label">Google Play</span></a></li>
+                                            <li><a href="https://apps.apple.com/us/app/panther-taxis/id1240884516?ign-mpt=uo4" className="icon fab fa-apple"><span className="label">Apple</span></a></li>
+                                        </ul>
+	
+					</div>	
+	
 	</div>
-	 
+
+	
+	
+	
+	
      
 	
 	</div>
