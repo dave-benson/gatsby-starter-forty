@@ -36,7 +36,8 @@ const Generic = (props) => (
                       	<li>ties optional</li>
                     </ul>
 	</div>
-	<h4>Other Information</h4>
+	<div><h4>Other Information</h4></div>
+	<div className="grid-wrapper">  
 	<div className="col-4">
 <p>The wedding breakfast will start at 5pm, please have lunch before if you'll get hungry</p>
 	</div>
