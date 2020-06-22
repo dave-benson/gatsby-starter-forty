@@ -23,6 +23,12 @@ const Generic = (props) => (
 	<div className="grid-wrapper">
 	<div className="col-4">
 	<div className="box">
+	<style> div {
+	background-image: img src={pic08};
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;}
+  </style>
 	<h4>Gonville</h4>
                                         <ul className="alt">
                                             <li>Gonville Place</li>
