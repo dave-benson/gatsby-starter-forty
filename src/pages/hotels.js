@@ -83,7 +83,7 @@ const Generic = (props) => (
 
 
 	</div>	
-		</div>
+
 
 
 	
