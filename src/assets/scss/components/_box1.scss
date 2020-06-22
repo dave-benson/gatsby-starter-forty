@@ -11,7 +11,7 @@ import pic13 from '../assets/images/pic13.jpg'
 		border: solid 1px _palette(border);
 		margin-bottom: _size(element-margin);
 		padding: 1.5em;
-		background-image: image("../images/pic13.jpg");
+		background-image: url("../../images/pic13.jpg");
 		background-size: cover;
 
 		> :last-child,
