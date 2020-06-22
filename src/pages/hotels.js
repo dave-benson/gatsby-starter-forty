@@ -26,7 +26,7 @@ const Generic = (props) => (
                                             <li>Gonville Place</li>
                                             <li>Cambridge</li>
                                             <li>CB1 1LY</li>
-	<li><a href="https://www.gonvillehotel.co.uk/" className="button special fit small fas fa-external-link-alt" target="_blank">Website</a></li>
+	<li><a href="https://www.gonvillehotel.co.uk/" target="_blank">Website</a></li>
                                         </ul>
 	
 					</div>
@@ -36,7 +36,7 @@ const Generic = (props) => (
                                             <li>Newmarket Road</li>
                                             <li>Cambridge</li>
                                             <li>CB1 3EP</li>
-		<li><a href="https://www.premierinn.com/gb/en/hotels/england/cambridgeshire/cambridge/cambridge-city-east.html?cid=GLBC_CAMNEW" className="button special fit small fas fa-external-link-alt" target="_blank">Website</a></li>
+		<li><a href="https://www.premierinn.com/gb/en/hotels/england/cambridgeshire/cambridge/cambridge-city-east.html?cid=GLBC_CAMNEW" target="_blank">Website</a></li>
                                         </ul>
 	</div>
 <div className="col-3">
@@ -45,7 +45,7 @@ const Generic = (props) => (
                                             <li>180-190 Newmarket Road</li>
                                             <li>Cambridge</li>
                                             <li>CB5 8HF</li>
-		<li><a href="https://www.travelodge.co.uk/search/results?location=Cambridge&lat=&long=&action=search&source=l&checkIn=&rooms%5B0%5D%5Badults%5D=1&rooms%5B0%5D%5Bchildren%5D=0&gclid=EAIaIQobChMIld2YttHp4wIVh7HtCh2fDA3WEAAYASAAEgJEEvD_BwE" className="button special fit small fas fa-external-link-alt" target="_blank">Website</a></li>
+		<li><a href="https://www.travelodge.co.uk/search/results?location=Cambridge&lat=&long=&action=search&source=l&checkIn=&rooms%5B0%5D%5Badults%5D=1&rooms%5B0%5D%5Bchildren%5D=0&gclid=EAIaIQobChMIld2YttHp4wIVh7HtCh2fDA3WEAAYASAAEgJEEvD_BwE" target="_blank">Website</a></li>
 	</ul>
 	</div>
 <div className="col-3">
@@ -63,11 +63,12 @@ const Generic = (props) => (
                                         <ul className="alt">
                                             <li><a href="https.pathertaxis.co.uk" target="_blank">Website</a></li>
                                             <li>01223 715715</li>
-											<li>Apps</li>
-                                        </ul>
+											<li>Apps
 	<ul className="icons">
                                             <li><a href="https://play.google.com/store/apps/details?id=uk.riide.panther&hl=en_GB" className="icon fab fa-apple"><span className="label">Google Play</span></a></li>
                                             <li><a href="https://apps.apple.com/us/app/panther-taxis/id1240884516?ign-mpt=uo4" className="icon fab fa-apple"><span className="label">Apple</span></a></li>
+                                        </ul>
+	</li>
                                         </ul>
 	
 					</div>	
