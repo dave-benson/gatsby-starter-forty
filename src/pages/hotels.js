@@ -74,10 +74,20 @@ const Generic = (props) => (
                                             <li>01223 715715</li>
 											<li>
 	<ul className="icons">
-                                            <li><a href="https://play.google.com/store/apps/details?id=uk.riide.panther&hl=en_GB" className="icon fab fa-google"><span className="label">Google Play</span></a></li>
-                                            <li><a href="https://apps.apple.com/us/app/panther-taxis/id1240884516?ign-mpt=uo4" className="icon fab fa-apple"><span className="label">Apple</span></a></li>
+                                            <li><a href="https://play.google.com/store/apps/details?id=uk.riide.panther&hl=en_GB" target="_blank" className="icon fab fa-google"><span className="label">Google Play</span></a></li>
+                                            <li><a href="https://apps.apple.com/us/app/panther-taxis/id1240884516?ign-mpt=uo4" target="_blank" className="icon fab fa-apple"><span className="label">Apple</span></a></li>
                                         </ul>
 	</li>
+                                        </ul>
+	
+					</div>
+	<div className="col-4">
+	<h4>Uber</h4>
+
+	<ul className="icons">
+                                            <li><a href="https://play.google.com/store/apps/details?id=com.ubercab&hl=en_GB" target="_blank" className="icon fab fa-google"><span className="label">Google Play</span></a></li>
+                                            <li><a href="https://apps.apple.com/us/app/uber/id368677368" target="_blank" className="icon fab fa-apple"><span className="label">Apple</span></a></li>
+   
                                         </ul>
 	
 					</div>	
