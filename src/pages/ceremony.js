@@ -36,22 +36,15 @@ const Generic = (props) => (
                       	<li>ties optional</li>
                     </ul>
 	</div>
-	
+	</div>
 	       
-                        <h4>Other Information</h4>
-                  
-                            <p>The wedding breakfast will start at 5pm, please have lunch before if you'll get hungry</p>
-                   
-                            
-                            <p>If you would like to bring confetti, only biodegradable petal confetti is allowable by the venue</p>
-                    
-                            <p>To allow all guests to relax and enjoy themselves, we have chosen to make our special day adults only. We thank you for your understanding</p>
+                       
                      
 	
 	
-	
-
-
+	</div>
+</section>
+</div>
     </Layout>
 )
 
