@@ -24,7 +24,7 @@ const Generic = (props) => (
 	<div className="col-4">
 	<div className="box">
 	<style> div {
-	background-image: url("../assets/images/pic08.jpg");
+	background-image: url("https://www.gonvillehotel.co.uk/wp-content/uploads/2018/07/feature_bedrooms_bg-768x512.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;}
