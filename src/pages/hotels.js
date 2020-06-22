@@ -25,7 +25,7 @@ const Generic = (props) => (
                                             <li>Gonville Place</li>
                                             <li>Cambridge</li>
                                             <li>CB1 1LY</li>
-	<li><a href="https://www.gonvillehotel.co.uk/" className="button special fit small fas fa-external-link-alt" target="_blank">Google Maps</a></li>
+	<li><a href="https://www.gonvillehotel.co.uk/" className="button special fit small fas fa-external-link-alt" target="_blank">Website</a></li>
                                         </ul>
 	
 					</div>
