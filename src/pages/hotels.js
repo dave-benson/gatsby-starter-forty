@@ -19,28 +19,28 @@ const Generic = (props) => (
                     </header>
                     <span className="image main"><img src={pic11} alt="" /></span>
     <div className="grid-wrapper">   
-	<div className="col-5">
+	<div className="col-3">
 				<h4>Gonville</h4>
                                 <p>Gonville Place</p>
 									<p>Cambridge</p>
 									<p>Cambridgeshire</p>
 									<p>CB1 1LY</p>
 					</div>
-	<div className="col-5">
-				<h4>Gonville2</h4>
-                                <p>Gonville Place</p>
-									<p>Cambridge</p>
-									<p>Cambridgeshire</p>
-									<p>CB1 1LY</p>
+	<div className="col-3">
+				<h4>Premier Inn</h4>
+                                <p>Newmarket Road<br>
+									Cambridge<br>
+									Cambridgeshire<br>
+									CB1 3EP</p>
 	</div>
-<div className="col-5">
+<div className="col-3">
 				<h4>Gonville3</h4>
                                 <p>Gonville Place</p>
 									<p>Cambridge</p>
 									<p>Cambridgeshire</p>
 									<p>CB1 1LY</p>
 	</div>
-<div className="col-5">
+<div className="col-3">
 				<h4>Gonville4</h4>
                                 <p>Gonville Place</p>
 									<p>Cambridge</p>
