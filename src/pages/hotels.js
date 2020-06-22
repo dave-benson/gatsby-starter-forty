@@ -25,7 +25,7 @@ const Generic = (props) => (
                                             <li>Gonville Place</li>
                                             <li>Cambridge</li>
                                             <li>CB1 1LY</li>
-	<li><a href="https://www.gonvillehotel.co.uk/" className="button special fit small fas fa-map-marker" target="_blank">Google Maps</a></li>
+	<li><a href="https://www.gonvillehotel.co.uk/" className="button special fit small fas fa-external-link-alt" target="_blank">Google Maps</a></li>
                                         </ul>
 	
 					</div>
@@ -43,6 +43,7 @@ const Generic = (props) => (
                                             <li>180-190 Newmarket Road</li>
                                             <li>Cambridge</li>
                                             <li>CB5 8HF</li>
+	</ul>
 	</div>
 <div className="col-3">
 		<h4>More ...</h4>
@@ -50,6 +51,7 @@ const Generic = (props) => (
                                             <li>Search for</li>
                                             <li>more hotels</li>
                                             <li>in Cambridge</li>
+	</ul>
 	</div>
 	</div>
 	 
