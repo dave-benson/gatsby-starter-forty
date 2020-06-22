@@ -63,9 +63,9 @@ const Generic = (props) => (
                                         <ul className="alt">
                                             <li><a href="https.pathertaxis.co.uk" target="_blank">Website</a></li>
                                             <li>01223 715715</li>
-											<li>Apps
+											<li>
 	<ul className="icons">
-                                            <li><a href="https://play.google.com/store/apps/details?id=uk.riide.panther&hl=en_GB" className="icon fab fa-apple"><span className="label">Google Play</span></a></li>
+                                            <li><a href="https://play.google.com/store/apps/details?id=uk.riide.panther&hl=en_GB" className="icon fab fa-google"><span className="label">Google Play</span></a></li>
                                             <li><a href="https://apps.apple.com/us/app/panther-taxis/id1240884516?ign-mpt=uo4" className="icon fab fa-apple"><span className="label">Apple</span></a></li>
                                         </ul>
 	</li>
