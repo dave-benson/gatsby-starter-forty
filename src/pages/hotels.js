@@ -66,31 +66,27 @@ const Generic = (props) => (
 <div className="grid-wrapper">	
 <div className="col-4"><span className="image fit"><img src={pic08} alt="" /></span></div>
 	</div>	
-<div className="box alt">
-             <div className="grid-wrapper">	
-	<div className="col-6">
+	<div className="col-4">
 	<div className="box">
 	<h4>Panther</h4>
 	                                <ul className="actions">
                                     <li><a href="https://play.google.com/store/apps/details?id=uk.riide.panther&hl=en_GB" target="_blank" className="button special icon fab fa-google">Android</a></li>
-                                    <li><a href="https://apps.apple.com/us/app/panther-taxis/id1240884516?ign-mpt=uo4" target="_blank" className="button icon fab fa-apple">Apple</a></li>
+                                    <li><a href="https://apps.apple.com/us/app/panther-taxis/id1240884516?ign-mpt=uo4" target="_blank" className="button special icon fab fa-apple">Apple</a></li>
                                 </ul>
 							<p><a href="https.pathertaxis.co.uk" target="_blank">Website</a>   01223 715715</p>
 </div>	
 </div>	
 
-	<div className="col-6">
+	<div className="col-4">
 	<div className="box">
 	<h4>Uber</h4>
 	                                <ul className="actions">
                                     <li><a href="https://play.google.com/store/apps/details?id=com.ubercab&hl=en_GB" target="_blank" className="button special icon fab fa-google">Android</a></li>
-                                    <li><a href="https://apps.apple.com/us/app/panther-taxis/id1240884516?ign-mpt=uo4" target="_blank" className="button icon fab fa-apple">Apple</a></li>
+                                    <li><a href="https://apps.apple.com/us/app/panther-taxis/id1240884516?ign-mpt=uo4" target="_blank" className="button special icon fab fa-apple">Apple</a></li>
                                 </ul>
 </div>	
 </div>	
-	
-</div>	
-</div>	
+
 
 	</div>	
 	
