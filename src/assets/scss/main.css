@@ -742,10 +742,10 @@ button,
   display: inline-block;
   font-size: 0.8em;
   font-weight: 600;
-  height: 2.5em;
-  /*letter-spacing: 0.25em;*/
+  height: 3.5em;
+  letter-spacing: 0.25em;
   line-height: 3.5em;
-  padding: 0 0.75em;
+  padding: 0 1.75em;
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
