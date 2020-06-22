@@ -48,7 +48,6 @@ const Generic = (props) => (
 <p>To allow all guests to relax and enjoy themselves, we have chosen to make our special day adults only. We thank you for your understanding</p>
 	</div>
 	</div>
-                </div>
             </section>
         </div>
 
