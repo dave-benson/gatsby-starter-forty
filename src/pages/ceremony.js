@@ -37,34 +37,20 @@ const Generic = (props) => (
                     </ul>
 	</div>
 	
-	            <section id="two">
-                <div className="inner">
-                    <header className="major">
+	       
                         <h4>Other Information</h4>
-                    </header>
-
-                                        
-                    <div className="grid-wrapper">
-                        <div className="col-4">
+                  
                             <p>The wedding breakfast will start at 5pm, please have lunch before if you'll get hungry</p>
-                        </div>
-                        <div className="col-4">
+                   
                             
                             <p>If you would like to bring confetti, only biodegradable petal confetti is allowable by the venue</p>
-                        </div>
-                        <div className="col-4">
+                    
                             <p>To allow all guests to relax and enjoy themselves, we have chosen to make our special day adults only. We thank you for your understanding</p>
-                        </div>
-                        </div>
+                     
+	
+	
+	
 
-                    <hr className="major" />
-	
-	
-	
-	
-	</div>
-            </section>
-       
 
     </Layout>
 )
