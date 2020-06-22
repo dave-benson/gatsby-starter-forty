@@ -29,7 +29,7 @@ const Generic = (props) => (
 					</div>
 	<div className="col-3">
 				<h4>Premier Inn</h4>
-                                <p>Newmarket Road
+                                <p>Newmarket Road</p>
 									<p>Cambridge</p>
 									<p>Cambridgeshire</p>
 									<p>CB1 3EP</p>
