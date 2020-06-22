@@ -55,7 +55,7 @@ const Generic = (props) => (
 	</ul>
 	</div>
 	</div>
-<div className="col-12">
+<div className="col-10">
                                         <ul className="alt">
 		<li><a href="https://www.trivago.co.uk/?aDateRange%5Barr%5D=2021-07-17&aDateRange%5Bdep%5D=2021-07-18&aPriceRange%5Bfrom%5D=0&aPriceRange%5Bto%5D=0&iRoomType=7&aRooms%5B0%5D%5Badults%5D=2&cpt2=16802%2F200&iViewType=1&bIsSeoPage=0&sortingId=1&slideoutsPageItemId=&iGeoDistanceLimit=16093&address=&addressGeoCode=&offset=0&ra=" className="button special fit small fas fa-external-link-alt" target="_blank">Search for more hotels</a></li>
                                         
