@@ -22,7 +22,7 @@ const Generic = (props) => (
    <h3>Hotels</h3>
 	<div className="grid-wrapper">
 	<div className="col-4">
-	<div className="box" >
+	<div className="box1" >
 	<h4>Gonville</h4>
                                         <ul className="alt">
                                             <li>Gonville Place</li>
