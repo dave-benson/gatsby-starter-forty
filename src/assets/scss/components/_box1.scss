@@ -10,8 +10,9 @@
 		border: solid 1px _palette(border);
 		margin-bottom: _size(element-margin);
 		padding: 1.5em;
-		background-image: url("../../images/pic09.jpg");
+		/*background-image: url("../../images/pic09.jpg");*/
 		background-size: cover;
+		background-color: rgba(193,14,14,0.61);
 
 		> :last-child,
 		> :last-child > :last-child,
