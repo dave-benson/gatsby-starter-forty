@@ -5,14 +5,14 @@
 ///
 
 /* Box1 */
+import pic13 from '../assets/images/pic13.jpg'
 
 	.box1 {
 		border: solid 1px _palette(border);
 		margin-bottom: _size(element-margin);
 		padding: 1.5em;
-		background-image: url("https://www.gonvillehotel.co.uk/wp-content/uploads/2018/07/feature_bedrooms_bg-768x512.jpg");
+		background-image: url('../assets/images/pic13.jpg');
 		background-size: cover;
-		opacity: 0.5;
 
 		> :last-child,
 		> :last-child > :last-child,
