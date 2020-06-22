@@ -23,8 +23,6 @@ const Generic = (props) => (
 	<div className="grid-wrapper">
 	<div className="col-4">
 	<div className="box" >
-	<div style="background-image: url('https://www.gonvillehotel.co.uk/wp-content/uploads/2018/07/feature_bedrooms_bg-768x512.jpg');">
-	
 	<h4>Gonville</h4>
                                         <ul className="alt">
                                             <li>Gonville Place</li>

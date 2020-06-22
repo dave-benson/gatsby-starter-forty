@@ -477,7 +477,9 @@ input[type="radio"] + label:before {
 .box {
   border: solid 1px rgba(212, 212, 255, 0.1);
   margin-bottom: 2em;
-  padding: 1.5em; }
+  padding: 1.5em;
+  background-image: url("https://www.gonvillehotel.co.uk/wp-content/uploads/2018/07/feature_bedrooms_bg-768x512.jpg");
+  background-size: cover; }
   .box > :last-child,
   .box > :last-child > :last-child,
   .box > :last-child > :last-child > :last-child {
@@ -742,10 +744,10 @@ button,
   display: inline-block;
   font-size: 0.8em;
   font-weight: 600;
-  height: 3.5em;
+  height: 2.5em;
   letter-spacing: 0.25em;
-  line-height: 3.5em;
-  padding: 0 1.75em;
+  line-height: 2.5em;
+  padding: 0 0.75em;
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
