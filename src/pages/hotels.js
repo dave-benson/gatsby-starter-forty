@@ -25,13 +25,19 @@ const Generic = (props) => (
 									<p>Cambridge</p>
 									<p>Cambridgeshire</p>
 									<p>CB1 1LY</p>
+	<ul className="actions fit small">
+                                    <li><a href="https://www.gonvillehotel.co.uk/" target="_blank" className="button special fit small icon fa-search">Website</a></li>
+                                </ul>
 					</div>
 	<div className="col-3">
 				<h4>Premier Inn</h4>
-                                <p>Newmarket Road<br>
-									Cambridge<br>
-									Cambridgeshire<br>
+                                <p>Newmarket Road
+									<br>Cambridge</br>
+									<br>Cambridgeshire</br>
 									CB1 3EP</p>
+	<ul className="actions fit small">
+                                    <li><a href="https://www.premierinn.com/gb/en/hotels/england/cambridgeshire/cambridge/cambridge-city-east.html?cid=GLBC_CAMNEW" target="_blank" className="button special fit small icon fa-search">Website</a></li>
+                                </ul>
 	</div>
 <div className="col-3">
 				<h4>Gonville3</h4>
