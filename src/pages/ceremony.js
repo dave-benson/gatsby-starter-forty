@@ -21,14 +21,33 @@ const Generic = (props) => (
     <div className="grid-wrapper">   
 	<div className="col-6">
 				<h4>Timings</h4>
-                      <ul className="alt">
-						<li>Arrive		14:00</li>
-                      	<li>Start 		14:30</li>
-                      	<li>Food		17:00</li>
-						<li>Dancing		19:30</li>
-						<li>Finish		24:00</li>
-                    </ul>
-	</div>
+                                <div className="table-wrapper">
+                                    <table>
+                                        <tbody>
+                                            <tr>
+                                                <td>Arrive</td>
+                                                <td>14:00</td>
+                                         	</tr>
+                                            <tr>
+                                                <td>Start</td>
+                                                <td>14:30</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Food</td>
+                                                <td>17:00</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Dancing</td>
+                                                <td>19:30</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Finish</td>
+                                                <td>24:00</td>
+                                            </tr>
+                                        </tbody>
+                                     </table>
+                                </div>
+					</div>
 	<div className="col-6">
 				<h4>Dress Code</h4>
                       <ul className="alt">
@@ -37,10 +56,9 @@ const Generic = (props) => (
                     </ul>
 	</div>
 	</div>
-	       
+	   <h4>Other Information</h4>    
   <div className="grid-wrapper">
-	<h4>Other Information</h4>
-	<div className="col-4">
+		<div className="col-4">
 				
                       <p>The wedding breakfast will start at 5pm, please have lunch before if you'll get hungry</p>
 
