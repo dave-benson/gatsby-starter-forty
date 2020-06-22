@@ -82,7 +82,7 @@ const Generic = (props) => (
 	<h4>Uber</h4>
 	                                <ul className="actions">
                                     <li><a href="https://play.google.com/store/apps/details?id=com.ubercab&hl=en_GB" target="_blank" className="button special icon fab fa-google">Android</a></li>
-                                    <li><a href="https://apps.apple.com/us/app/panther-taxis/id1240884516?ign-mpt=uo4" target="_blank" className="button special icon fab fa-apple">Apple</a></li>
+                                    <li><a href="https://play.google.com/store/apps/details?id=com.ubercab&hl=en_GB" target="_blank" className="button special icon fab fa-apple">Apple</a></li>
                                 </ul>
 </div>	
 </div>	
