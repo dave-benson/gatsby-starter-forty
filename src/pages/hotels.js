@@ -22,13 +22,9 @@ const Generic = (props) => (
    <h3>Hotels</h3>
 	<div className="grid-wrapper">
 	<div className="col-4">
-	<div className="box">
-	<style> div {
-	background-image: url("https://www.gonvillehotel.co.uk/wp-content/uploads/2018/07/feature_bedrooms_bg-768x512.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;}
-  </style>
+	<div className="box" >
+	<div style="background-image: url('https://www.gonvillehotel.co.uk/wp-content/uploads/2018/07/feature_bedrooms_bg-768x512.jpg');">
+	
 	<h4>Gonville</h4>
                                         <ul className="alt">
                                             <li>Gonville Place</li>
@@ -36,7 +32,7 @@ const Generic = (props) => (
                                             <li>CB1 1LY</li>
 	<li><a href="https://www.gonvillehotel.co.uk/" target="_blank">Website</a></li>
                                         </ul>
-	
+	</div>
 					</div>
 	</div>
 	<div className="col-4">
