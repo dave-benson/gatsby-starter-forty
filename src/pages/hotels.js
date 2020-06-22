@@ -24,7 +24,7 @@ const Generic = (props) => (
 	<div className="col-4">
 	<div className="box">
 	<style> div {
-	background-image: img src={pic08};
+	background-image: url('/assets/images/pic08.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;}
