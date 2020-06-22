@@ -100,7 +100,7 @@ const Generic = (props) => (
 	
 	
 	
-     
+     </div>
 	
 	</div>
 </section>
