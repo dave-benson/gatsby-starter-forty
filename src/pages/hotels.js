@@ -24,7 +24,7 @@ const Generic = (props) => (
 	<div className="col-4">
 	<div className="box1" >
 	<h4>Gonville</h4>
-                                        <ul className="alt">
+	                                        <ul className="alt1">
                                             <li>Gonville Place</li>
                                             <li>Cambridge</li>
                                             <li>CB1 1LY</li>
