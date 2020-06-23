@@ -581,7 +581,7 @@ ul {
         padding-top: 0; }
   ul.alt1 {
     list-style: none;
-    padding-left: 0;
+    /*padding-left: 0;*/
     background-color: rgba(65, 65, 65, 0.61); }
     ul.alt1 li {
       /*border-top: solid 1px _palette(border);*/

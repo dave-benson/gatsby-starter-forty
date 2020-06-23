@@ -23,8 +23,10 @@ const Generic = (props) => (
 	<div className="grid-wrapper">
 	<div className="col-4">
 	<div className="box1" >
-	<h4>Gonville</h4>
+	
 	                                        <ul className="alt1">
+											<li><h4>Gonville</h4></li>
+											<li></li>
                                             <li>Gonville Place</li>
                                             <li>Cambridge</li>
                                             <li>CB1 1LY</li>
