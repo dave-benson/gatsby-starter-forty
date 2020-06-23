@@ -1160,7 +1160,7 @@ button,
     padding: 0em; }
 
 /* Box1 */
-.box1 {
+.box2 {
   border: solid 0px rgba(212, 212, 255, 0.1);
   margin-bottom: 2em;
   padding: 1.5em;
@@ -1169,19 +1169,17 @@ button,
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   /*text-shadow:  #000000 1px 0 10px;*/
   /*background-color: rgba(193,14,14,0.61);*/ }
-  .box1 > :last-child,
-  .box1 > :last-child > :last-child,
-  .box1 > :last-child > :last-child > :last-child {
+  .box2 > :last-child,
+  .box2 > :last-child > :last-child,
+  .box2 > :last-child > :last-child > :last-child {
     margin-bottom: 0; }
-  .box1.alt {
+  .box2.alt {
     border: 0;
     border-radius: 0;
     padding: 0; }
-  .box1 .box1 .ul {
-    padding: 0em; }
 
 /* Box1 */
-.box1 {
+.box3 {
   border: solid 0px rgba(212, 212, 255, 0.1);
   margin-bottom: 2em;
   padding: 1.5em;
@@ -1190,16 +1188,14 @@ button,
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   /*text-shadow:  #000000 1px 0 10px;*/
   /*background-color: rgba(193,14,14,0.61);*/ }
-  .box1 > :last-child,
-  .box1 > :last-child > :last-child,
-  .box1 > :last-child > :last-child > :last-child {
+  .box3 > :last-child,
+  .box3 > :last-child > :last-child,
+  .box3 > :last-child > :last-child > :last-child {
     margin-bottom: 0; }
-  .box1.alt {
+  .box3.alt {
     border: 0;
     border-radius: 0;
     padding: 0; }
-  .box1 .box1 .ul {
-    padding: 0em; }
 
 /* Header */
 @-moz-keyframes reveal-header {
