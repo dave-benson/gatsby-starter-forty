@@ -579,6 +579,16 @@ ul {
       ul.alt li:first-child {
         border-top: 0;
         padding-top: 0; }
+  ul.alt1 {
+    list-style: none;
+    padding-left: 0;
+    background-color: rgba(65, 65, 65, 0.61); }
+    ul.alt1 li {
+      /*border-top: solid 1px _palette(border);*/
+      padding: 0em 0; }
+      ul.alt1 li:first-child {
+        border-top: 0;
+        padding-top: 0; }
   ul.icons {
     cursor: default;
     list-style: none;
