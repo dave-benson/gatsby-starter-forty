@@ -1130,12 +1130,13 @@ button,
 
 /* Box1 */
 .box1 {
-  border: solid 1px rgba(212, 212, 255, 0.1);
+  border: solid 0px rgba(212, 212, 255, 0.1);
   margin-bottom: 2em;
   padding: 1.5em;
   background-image: url("https://raw.githubusercontent.com/dave-benson/gatsby-starter-forty/master/src/assets/images/pic13.jpg");
   background-size: cover;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  text-shadow: #414141 1px 0 10px;
   /*background-color: rgba(193,14,14,0.61);*/ }
   .box1 > :last-child,
   .box1 > :last-child > :last-child,
