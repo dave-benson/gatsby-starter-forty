@@ -1,5 +1,4 @@
 import React from 'react'
-import clock from '../components/clock'
 
 const Footer = (props) => (
     <footer id="footer">
@@ -12,7 +11,6 @@ const Footer = (props) => (
                 <li><a href="#" className="icon alt fa-linkedin"><span className="label">LinkedIn</span></a></li>
             </ul>
             <ul className="copyright">
-                <li><span id="day"></span> Days Remaining</li>
             </ul>
         </div>
     </footer>
