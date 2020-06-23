@@ -1,0 +1,35 @@
+///
+/// Forty by HTML5 UP
+/// html5up.net | @ajlkn
+/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+///
+
+/* Box1 */
+
+	.box1 { 
+		border: solid 0px _palette(border);
+		margin-bottom: _size(element-margin);
+		padding: 1.5em;
+		background-image: url("https://raw.githubusercontent.com/dave-benson/gatsby-starter-forty/master/src/assets/images/pic14.jpg");
+		background-size: cover;
+		text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+		/*text-shadow:  #000000 1px 0 10px;*/
+		/*background-color: rgba(193,14,14,0.61);*/
+		
+
+		> :last-child,
+		> :last-child > :last-child,
+		> :last-child > :last-child > :last-child {
+			margin-bottom: 0;
+		}
+
+		&.alt {
+			border: 0;
+			border-radius: 0;
+			padding: 0;
+		}
+		
+		.box1 .ul {
+			padding: 0em;
+		}	
+	}

@@ -36,9 +36,10 @@ const Generic = (props) => (
 					</div>
 	
 	<div className="col-4">
-	<div className="box">
-		<h4>Premier Inn</h4>
-                                        <ul className="alt">
+	<div className="box2">
+                                        <ul className="alt1">
+											<li><h4>Premier Inn</h4></li>
+											<li></li>
                                             <li>Newmarket Road</li>
                                             <li>Cambridge</li>
                                             <li>CB1 3EP</li>
@@ -47,9 +48,10 @@ const Generic = (props) => (
 	</div>
 	</div>
 <div className="col-4">
-<div className="box">	
-		<h4>Travelodge</h4>
-                                        <ul className="alt">
+<div className="box3">	
+                                        <ul className="alt1">
+											<li><h4>Travelodge</h4></li>
+											<li></li>
                                             <li>180-190 Newmarket Road</li>
                                             <li>Cambridge</li>
                                             <li>CB5 8HF</li>
