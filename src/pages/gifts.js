@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 
-import pic11 from '../assets/images/pic11.jpg'
+import pic11 from '../assets/images/pic16.jpg'
 
 const Generic = (props) => (
     <Layout>
@@ -17,12 +17,13 @@ const Generic = (props) => (
                     <header className="major">
                         <h1>Gifts</h1>
                     </header>
-                    <span className="image main"><img src={pic11} alt="" /></span>
+
    
                     <p>Your presence at our wedding is the greatest gift of all</p>
 					<p>However, should you wish to honour us with a gift, a contribution to  help to us create an unforgettable adventure on our honeymoon would be appreciated but not required.</p>
 					<p>If you would like to contribute, please <a href="https://www.paypal.me/sarahdave2020" className="button icon fab fa-paypal" target="_blank">Paypal</a> us, or we can give you our bank details.</p>
                 </div>
+	     <span className="image main"><img src={pic16} alt="" /></span>
             </section>
         </div>
 
