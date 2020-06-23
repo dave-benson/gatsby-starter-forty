@@ -20,8 +20,8 @@ const Generic = (props) => (
                     <span className="image main"><img src={pic11} alt="" /></span>
    
                     <p>Please RSVP by May 1st by using the links below</p>
-					<p<a href="#" className="button icon fas fa-calendar-check" target="_blank">RSVP Day</a></p>
-					<p<a href="#" className="button icon fas fa-calendar-check" target="_blank">RSVP Day</a></p>
+					<p><a href="#" className="button icon fas fa-calendar-check" target="_blank">RSVP Day</a></p>
+					<p><a href="#" className="button icon fas fa-calendar-check" target="_blank">RSVP Day</a></p>
                 </div>
             </section>
         </div>
