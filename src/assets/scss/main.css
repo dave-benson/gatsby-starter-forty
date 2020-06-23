@@ -1146,6 +1146,8 @@ button,
     border: 0;
     border-radius: 0;
     padding: 0; }
+  .box1 .box1 .ul {
+    padding: 0em; }
 
 /* Header */
 @-moz-keyframes reveal-header {
