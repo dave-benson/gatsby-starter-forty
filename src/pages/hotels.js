@@ -68,8 +68,7 @@ const Generic = (props) => (
 	</div>
 	
 	 <h3>Taxis</h3>
-<div className="grid-wrapper">	
-<div className="col-6"><span className="image fit"><img src={pic08} alt="" /></span></div>	
+<div className="grid-wrapper">
 	<div className="col-6">
 	<div className="box">
 	<h4>Panther</h4>
