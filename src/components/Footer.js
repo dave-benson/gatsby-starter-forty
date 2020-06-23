@@ -1,4 +1,5 @@
 import React from 'react'
+import clock from '../components/clock'
 
 const Footer = (props) => (
     <footer id="footer">

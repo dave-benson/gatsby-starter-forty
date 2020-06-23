@@ -1,5 +1,6 @@
 /*Clock */
-
+import React from 'react'
+const clock = (props) => (
 var deadline = new Date("jul 17, 2021 14:00:00").getTime();
  
 var x = setInterval(function() {
@@ -16,10 +17,13 @@ document.getElementById("minute").innerHTML = minutes;
 document.getElementById("second").innerHTML =seconds; 
 if (t < 0) {
         clearInterval(x);
-       /* document.getElementById("demo").innerHTML = "TIME UP";*/
+
         document.getElementById("day").innerHTML ='0';
         document.getElementById("hour").innerHTML ='0';
         document.getElementById("minute").innerHTML ='0' ; 
         document.getElementById("second").innerHTML = '0'; }
 }, 1000);
-/*Clock End*/
+
+)
+
+export default clock
