@@ -18,7 +18,7 @@ const Generic = (props) => (
                     <header className="major">
                         <h1>Hotels & Taxis</h1>
                     </header>
-                    /*<span className="image main"><img src={pic11} alt="" /></span>*/
+                    // <span className="image main"><img src={pic11} alt="" /></span>
    <h3>Hotels</h3>
 	<div className="grid-wrapper">
 	<div className="col-4">
