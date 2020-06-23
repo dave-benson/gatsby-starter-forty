@@ -22,8 +22,9 @@ const Generic = (props) => (
                     <p>Your presence at our wedding is the greatest gift of all</p>
 					<p>However, should you wish to honour us with a gift, a contribution to  help to us create an unforgettable adventure on our honeymoon would be appreciated but not required.</p>
 					<p>If you would like to contribute, please <a href="https://www.paypal.me/sarahdave2020" className="button icon fab fa-paypal" target="_blank">Paypal</a> us, or we can give you our bank details.</p>
-                </div>
-	     <span className="image main"><img src={pic11} alt="" /></span>
+                
+		     <span className="image main"><img src={pic11} alt="" /></span>
+	</div>
             </section>
         </div>
 
