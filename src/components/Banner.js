@@ -9,7 +9,6 @@ const Banner = (props) => (
             <div className="content">
                 <p>Secret Garden Marquee, Burwash Manor, Barton</p>
                 <ul className="actions">
-	                   /* <li><a href="#one" className="button next scrolly" id="day">Days Remaining</a></li>*/
                 </ul>
             </div>
         </div>

@@ -19,11 +19,13 @@ const Generic = (props) => (
                     </header>
                     <span className="image main"><img src={pic11} alt="" /></span>
 	<h4 id="content">Venue</h4>
-                    <p>The Secret Garden Wedding Marquee</p>
-					<p>Burwash Manor, New Road, Barton</p>
-					<p>Cambridge CB23 7EY</p>
+    		<ul className="alt">                
+	<li>The Secret Garden Wedding Marquee</li>
+					<li>Burwash Manor, New Road, Barton</li>
+					<li>Cambridge CB23 7EY</li>
+	 </ul>
 	<ul className="actions">
-	                    <li><a href="http://www.burwashweddings.com/" className="button special small">Website</a></li>
+	                    <li><a href="http://www.burwashweddings.com/" target="_blank" className="button special small">Website</a></li>
                 </ul>
 	
 	
