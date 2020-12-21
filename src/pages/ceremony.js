@@ -7,7 +7,7 @@ import pic11 from '../assets/images/pic11.jpg'
 const Generic = (props) => (
     <Layout>
         <Helmet>
-            <title>Sarah & Dave - Ceremony</title>
+            <title>Sarah & Dave - Venue & Ceremony</title>
             <meta name="description" content="Generic Page" />
         </Helmet>
 
@@ -15,9 +15,18 @@ const Generic = (props) => (
             <section id="one">
                 <div className="inner">
                     <header className="major">
-                        <h1>Ceremony</h1>
+                        <h1>Venue & Ceremony</h1>
                     </header>
                     <span className="image main"><img src={pic11} alt="" /></span>
+	<h4 id="content">Venue</h4>
+                    <p>The Secret Garden Wedding Marquee</p>
+					<p>Burwash Manor, New Road, Barton</p>
+					<p>Cambridge CB23 7EY</p>
+	<ul className="actions">
+	                    <li><a href="http://www.burwashweddings.com/" className="button special small">Website</a></li>
+                </ul>
+	
+	
     <div className="grid-wrapper">   
 	<div className="col-6">
 				<h4>Timings</h4>
