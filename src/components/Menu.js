@@ -13,6 +13,7 @@ const Menu = (props) => (
 					<li><Link onClick={props.onToggleMenu} to="/hotels">Hotels & Taxis</Link></li>		
 					<li><Link onClick={props.onToggleMenu} to="/gifts">Gifts</Link></li>
 					<li><Link onClick={props.onToggleMenu} to="/rsvp">RSVP</Link></li>
+					<li><a href="https://instagram.com" target="_blank" className="icon alt fa-instagram"><span className="label">Instagram</span></a></li>
                 
             </ul>
         </div>
